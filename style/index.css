@@ -85,3 +85,26 @@ margin-top: 20px;
 .title-header {
   color: #2ecc71;
 }
+
+.tittle-home {
+  text-align: center;
+  font-weight: bold;
+  color: #2ecc71;
+}
+.harga {
+  margin-top: 20px;
+}
+
+.discount {
+  margin-right: 5px;
+  color: red;
+}
+
+.btn-discount {
+  width: 90px;
+  font-size: 13px;
+}
+
+.no-discount {
+  margin-top: 20px;
+}
