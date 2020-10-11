@@ -31,10 +31,6 @@
     border: 0;
 }
 
-.indonesian-culture {
-margin-top: 20px;
-}
-
 .indonesian-culture  h1 {
     font-family: 'Poppins';
     font-weight: 700;
@@ -130,4 +126,10 @@ margin-top: 20px;
   color: #2F281E;
   font-size: 16px;
   margin-top: 15px;
+}
+
+.navbar-brand.logo {
+  color: black;
+  font-weight: bold;
+  font-size: 25px;
 }
