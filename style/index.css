@@ -126,3 +126,8 @@ margin-top: 20px;
 .selengkapnya:hover {
   background: blueviolet;
 }
+.name {
+  color: #2F281E;
+  font-size: 16px;
+  margin-top: 15px;
+}
